@@ -253,6 +253,11 @@ p > img {
   }
 }
 
+.logo {
+  margin-top: 13px;
+  height: 50px;
+}
+
 nav {
   float: right;
   margin-top: 23px;
